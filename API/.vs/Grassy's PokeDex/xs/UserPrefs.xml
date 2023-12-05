@@ -1,0 +1,79 @@
+﻿<Properties StartupConfiguration="{7DC3DDC2-2D57-4A1C-A44A-CB189D6B3EB3}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Domain/User.cs">
+    <Files>
+      <File FileName="Business/Class1.cs" />
+      <File FileName="Domain/Pokemon.cs" Line="10" Column="9" />
+      <File FileName="Domain/Type.cs" Line="11" Column="1" />
+      <File FileName="Domain/Move.cs" Line="10" Column="9" />
+      <File FileName="Domain/User.cs" Line="8" Column="1" />
+      <File FileName="Data/PokeDBContext.cs" />
+      <File FileName="Data/Helpers/Constants.cs" />
+      <File FileName="Domain/BattleStatus.cs" Line="1" Column="1" />
+      <File FileName="Domain/Battle.cs" />
+      <File FileName="Domain/BattleMove.cs" Line="1" Column="1" />
+      <File FileName="Data/Contracts/IUserRepository.cs" />
+      <File FileName="Data/Contracts/IGenericRepository.cs" />
+      <File FileName="Data/Contracts/IPokemonRepository.cs" />
+      <File FileName="Data/Contracts/IPokemonTypeRepository.cs" />
+      <File FileName="Data/Contracts/IPokemonMoveRepository.cs" />
+      <File FileName="Data/Contracts/IBattleRepository.cs" />
+      <File FileName="Data/Contracts/IBattleMoveRepository.cs" />
+      <File FileName="Data/Implementation/UserRepository.cs" />
+      <File FileName="Data/Implementation/PokemonTypeRepository.cs" />
+      <File FileName="Data/Implementation/PokemonMoveRepository.cs" />
+      <File FileName="Data/Implementation/BattleRepository.cs" />
+      <File FileName="Data/Implementation/BattleMoveRepository.cs" />
+      <File FileName="Business/Contracts/IPokemonService.cs" />
+      <File FileName="Business/Contracts/IUserService.cs" />
+      <File FileName="Business/Contracts/IPokemonTypeService.cs" />
+      <File FileName="Business/Contracts/IPokemonMoveService.cs" />
+      <File FileName="Business/Contracts/IBattleService.cs" />
+      <File FileName="Business/Contracts/IBattleMoveService.cs" />
+      <File FileName="Business/Implementation/BattleService.cs" />
+      <File FileName="Business/Implementation/BattleMoveService.cs" />
+      <File FileName="Business/Implementation/PokemonMoveService.cs" />
+      <File FileName="Business/Implementation/PokemonTypeService.cs" />
+      <File FileName="Business/Implementation/UserService.cs" />
+      <File FileName="Business/Implementation/PokemonService.cs" />
+      <File FileName="API/Controllers/BattleMoveController.cs" />
+      <File FileName="API/Controllers/BattleController.cs" />
+      <File FileName="API/Controllers/PokemonMoveController.cs" />
+      <File FileName="API/Controllers/PokemonController.cs" />
+      <File FileName="API/Controllers/PokemonTypeController.cs" />
+      <File FileName="API/Program.cs" />
+      <File FileName="Grassy's PokeDex/Program.cs" />
+      <File FileName="API/Controllers/UserController.cs" Line="87" Column="14" />
+      <File FileName="Domain/PokemonDTO.cs" Line="1" Column="1" />
+      <File FileName="Data/Implementation/PokemonRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Grassy's PokeDex" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Business" expanded="True">
+              <Node name="Contracts" expanded="True" />
+              <Node name="Implementation" expanded="True" />
+            </Node>
+            <Node name="Data" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Contracts" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Implementation" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Grassy_227s_220PokeDex PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

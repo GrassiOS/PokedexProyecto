@@ -1,0 +1,32 @@
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/bin/Debug/net6.0/appsettings.Development.json
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/bin/Debug/net6.0/appsettings.json
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/bin/Debug/net6.0/Grassy's PokeDex
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/bin/Debug/net6.0/Grassy's PokeDex.deps.json
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/bin/Debug/net6.0/Grassy's PokeDex.runtimeconfig.json
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/bin/Debug/net6.0/Grassy's PokeDex.dll
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/bin/Debug/net6.0/Grassy's PokeDex.pdb
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/Grassy's PokeDex.csproj.AssemblyReference.cache
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/Grassy's PokeDex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/Grassy's PokeDex.AssemblyInfoInputs.cache
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/Grassy's PokeDex.AssemblyInfo.cs
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/Grassy's PokeDex.csproj.CoreCompileInputs.cache
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/Grassy's PokeDex.MvcApplicationPartsAssemblyInfo.cs
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/Grassy's PokeDex.MvcApplicationPartsAssemblyInfo.cache
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/staticwebassets/msbuild.Grassy's PokeDex.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/staticwebassets/msbuild.build.Grassy's PokeDex.props
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Grassy's PokeDex.props
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Grassy's PokeDex.props
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/staticwebassets.build.json
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/staticwebassets.development.json
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/scopedcss/bundle/Grassy's PokeDex.styles.css
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/Grassy's PokeDex.csproj.CopyComplete
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/Grassy's PokeDex.dll
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/refint/Grassy's PokeDex.dll
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/Grassy's PokeDex.pdb
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/Grassy's PokeDex.genruntimeconfig.cache
+/Users/martinog/Projects/Grassy's PokeDex/Grassy's PokeDex/obj/Debug/net6.0/ref/Grassy's PokeDex.dll

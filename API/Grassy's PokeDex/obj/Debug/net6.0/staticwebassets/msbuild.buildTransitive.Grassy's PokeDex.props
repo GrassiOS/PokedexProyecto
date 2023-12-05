@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Grassy's PokeDex.props" />
+</Project>
